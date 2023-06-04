@@ -1,2 +1,3 @@
 # CG-CBITInternship (ROLL NO 160121737203)
-A static HTML Website on Role Model
+Task 1 (02 Jun 23) - A static HTML Website on Role Model (virat.html)
+Task 2 (03 Jun 23) - Login & Registration Page (login.html, register.html)
